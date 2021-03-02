@@ -1,11 +1,43 @@
 h1 {
-    font-family: 'Garamond', Times, serif;
-    font-weight: bold;
-    color: rgba(74, 170, 165);
+
+
+    color: rgba(29, 122, 181);
   }
 
 h2{
-  font-family: 'Garamond', Times, serif;
-    font-weight: bold;
-    color: rgba(74, 170, 165);
+
+ 
+    color: rgba(29, 122, 181);
 }
+
+h3{
+
+    font-weight: bold;
+    color: white;
+}
+
+/* .row [class*='col-'] {
+  background-color: white;
+  background-clip: content-box;
+  min-height: 20px;
+} */
+  /* Modify the background color */ 
+          
+
+/* Modify brand and text color */ 
+
+
+
+.navbar-custom .navbar-brand{ 
+
+
+  color: white;
+  background-color: rgba(29, 122, 181);
+  padding-right: 20px;
+  padding-left: 20px;
+}
+/* 
+img {
+  width: 160px;
+  height: 125px;
+} */
